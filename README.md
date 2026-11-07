@@ -9,7 +9,7 @@
 Based in Dortmund, Germany · 9+ years across IT operations, reporting and business systems
 
 <p>
-  <a href="https://hjsarker.github.io/portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Explore%20my%20work-24292F?style=for-the-badge&logo=githubpages&logoColor=white"></a>
+  <a href="https://hillol.de/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Explore%20my%20work-24292F?style=for-the-badge&logo=githubpages&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/hjsarker/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:hjsarker@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Get%20in%20touch-52677C?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
@@ -39,7 +39,7 @@ These are public projects and demonstrations you can open and explore. Some are 
 | **[Cosmic Atlas](https://github.com/hjsarker/cosmic-atlas)** | An interactive 3D Solar System experience using Three.js, published NASA/JPL orbital data and attributed astronomy assets. | [Explore in 3D](https://hjsarker.github.io/cosmic-atlas/) |
 | **[AI: The Long Road to Now](https://github.com/hjsarker/ai-long-road-to-now)** | An interactive, source-linked visual history of AI, connecting major ideas, compute and data milestones. | [Open experience](https://hjsarker.github.io/ai-long-road-to-now/) |
 
-**More context and career examples:** [My professional portfolio](https://hjsarker.github.io/portfolio/)
+**More context and career examples:** [My professional portfolio](https://hillol.de/)
 
 ### Skills and tools
 
@@ -80,7 +80,7 @@ These are public projects and demonstrations you can open and explore. Some are 
 | **2015–2021** | **HRC Technologies Limited** | IT administration, telecom billing systems, SQL reporting and L1–L3 support |
 | **2015** | **YES Private Ltd.** | Workplace IT, endpoints, networking and website support |
 
-For details on responsibilities and project context, see my [portfolio](https://hjsarker.github.io/portfolio/#experience) or [LinkedIn](https://www.linkedin.com/in/hjsarker/).
+For details on responsibilities and project context, see my [portfolio](https://hillol.de/#experience) or [LinkedIn](https://www.linkedin.com/in/hjsarker/).
 
 ### Education & certifications
 
@@ -102,6 +102,6 @@ For details on responsibilities and project context, see my [portfolio](https://
 
 **Interested in my work or a potential collaboration?**
 
-[Portfolio](https://hjsarker.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/hjsarker/) · [Email](mailto:hjsarker@gmail.com)
+[Portfolio](https://hillol.de/) · [LinkedIn](https://www.linkedin.com/in/hjsarker/) · [Email](mailto:hjsarker@gmail.com)
 
 </div>
